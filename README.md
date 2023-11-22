@@ -1,8 +1,6 @@
-<a href="https://github.com/amitv87?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitv87&layout=compact&langs_count=6" />
-</a>
-<br>
-<br>
-<a href="https://github.com/amitv87">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitv87&show_icons=true&count_private=true" />
-</a>
+| ![Stats][stats] | ![Top Languages by Repo][repos-per-language] | ![Top Languages by Commit][most-commit-language] |
+| --------------- | -------------------------------------------- | ------------------------------------------------ |
+
+[stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitv87&theme=github_dark
+[repos-per-language]: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitv87&theme=github_dark
+[most-commit-language]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitv87&theme=github_dark
